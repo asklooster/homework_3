@@ -1,0 +1,16 @@
+
+Folder contains project materials for creating a simulation model for a
+theoretical coffee shop. Notebook folder contains 5 iterations of the same model.
+'cafe_version_4.ipynb' is the finished product. All other notebooks are in folder
+'old_versions'.
+
+The latest model will automatically produce CSV file containing simulation results.
+This file will be saved in 'output' folder.
+
+Given more time, I would've migrated notebook to a .py file and
+try replicating command line functionality found in vaccine clinic model.
+
+
+Thanks for everything Professor! These last three classes have given me a lot to
+draw from and plenty of points for continued study. Have a great rest of your
+summer!
